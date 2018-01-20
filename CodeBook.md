@@ -8,7 +8,8 @@ Addtional details for the variables, data and transformations used in the module
 
 ### Source
 
-This data was taken from [UCI Machine Learning Repository] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This data was taken from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 
 ### Dataset Information
 
