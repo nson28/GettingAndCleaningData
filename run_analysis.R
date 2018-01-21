@@ -1,4 +1,4 @@
-#This script will perform the  following operations :
+# This script will perform the  following operations :
 
 # 1. Merges the training and the test sets to create one data set.
 # 2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -6,7 +6,7 @@
 # 4. Appropriately labels the data set with descriptive variable names.
 # 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-# Load r ackages and get the data from url
+# Load r packages and get the data from url
 r_packages <- c("data.table", "reshape2")
 sapply(r_packages, require, character.only=TRUE, quietly=TRUE)
 directory <- getwd()
