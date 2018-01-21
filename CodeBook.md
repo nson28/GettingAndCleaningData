@@ -8,7 +8,8 @@ Addtional details for the variables, data and transformations used in the module
 
 ### Source
 
-This data was taken from [UCI Machine Learning Repository] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This data was taken from [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
 
 ### Dataset Information
 
@@ -30,7 +31,7 @@ _http://archive.ics.uci.edu/ml/machine-learning-databases/00240/_
 
 
 ### Data Processing
-R scripts has been created in order to run the  following porcesses as instructed:
+R scripts has been created in order to run the  following processes as instructed. You may see the README.md on how the following instructions were implemented [README.md](https://github.com/nson28/GettingAndCleaningData/blob/master/README.md)
 1. Merge the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
